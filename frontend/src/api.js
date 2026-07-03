@@ -1,4 +1,4 @@
-﻿import axios from "axios";
+import axios from "axios";
 
 // Use production API URL if available, otherwise proxy to localhost
 const API = axios.create({ 
